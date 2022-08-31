@@ -1,7 +1,8 @@
 <h1 align='center'>
-Urna
+Urna</h1>
+<h3 align='center'>
  <a href='https://sunny-dusk-494676.netlify.app/'>Acesse por aqui</a>
-</h1>
+</h3>
  A urna eletrônica foi feita em HTML, CSS e JS, criada a partir de um exercício tutorado pelo <a href='https://www.youtube.com/bonieky'>Bonieky</a>.
 Para a sua criação, criei um banco de dados e exporte para o projeto.
 <h2 align='center'>
